@@ -1,2 +1,7 @@
+move the EF state to the redux 
+add validation
+fix CORS issue with auth
+add a DB
+
 Add Nuke script for CI
 Add tests
